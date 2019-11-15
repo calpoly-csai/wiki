@@ -14,3 +14,6 @@ The "Cal Poly Computer Science & Artificial Intelligence" club is designing a vo
 * Contact us
   * [calpolycsai.slack.com](https://calpolycsai.slack.com)
   * csaicalpoly@gmail.com
+
+
+https://github.com/calpoly-csai/wiki/wiki
